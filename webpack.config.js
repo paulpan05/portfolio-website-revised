@@ -22,6 +22,10 @@ module.exports = {
           transpileOnly: true,
         },
       },
+      {
+        test: /\.html?$/,
+        loader: 'raw-loader',
+      }
     ],
   },
 }

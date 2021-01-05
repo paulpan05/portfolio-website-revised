@@ -1,6 +1,6 @@
 name = "portfolio-website"
 type = "webpack"
-account_id = ""
+account_id = "fb46368452fec835250406ea5c3007df"
 workers_dev = true
 route = ""
 zone_id = ""
