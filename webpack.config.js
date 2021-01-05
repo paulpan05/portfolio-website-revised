@@ -23,7 +23,7 @@ module.exports = {
         },
       },
       {
-        test: /\.html?$/,
+        test: /\.(html|css)?$/,
         loader: 'raw-loader',
       }
     ],
